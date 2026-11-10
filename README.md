@@ -1,2 +1,5 @@
-# interstitial-nephritis-cystic-disease-past-years-quiz
-Interstitial Nephritis &amp; Cystic Disease · Past Years · Quiz
+# Interstitial Nephritis & Cystic Disease · Past Years · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
